@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Dice {
     public static void main(String[] args) {
         // Welcome the user to the game
-        System.out.println("Welcome to the Simple Dice Game!");
+        System.out.println("Welcome to the Dice Game!");
 
         // Ask the user if they would like to play
         System.out.print("Would you like to play? Type 'YES' or 'NO': ");
